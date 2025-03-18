@@ -1,0 +1,22 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+
+# Build results
+bin/
+obj/
+
+# Visual Studio Code files
+.vscode/
+
+# NuGet packages folder
+packages/
+
+# Others
+*.log
+*.tmp
